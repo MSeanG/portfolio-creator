@@ -25,37 +25,26 @@ This application has:
 
 ### Wireframe and ERD images
 
-<details>
-<summary>Create Account Wireframe</summary>
-https://files.slack.com/files-pri/T0351JZQ0-F6GNDV5DL/account_create.png
-</details>
+#### Create Account Wireframe 
+![account create](https://user-images.githubusercontent.com/10038637/28835805-a990d6bc-76b4-11e7-8154-e03b812b201e.png)
 
-<details>
-<summary>Build Your Portfolio Wireframe</summary>
+#### Build Your Portfolio Wireframe
+![build your portfolio screen](https://user-images.githubusercontent.com/10038637/28836100-a6f9b1ac-76b5-11e7-8482-a7ce58ec3678.png)
 
-</details>
+#### Final Portfolio Wireframe
+![final portfolio screen](https://user-images.githubusercontent.com/10038637/28836167-e0439acc-76b5-11e7-8ceb-574abf3a6794.png)
 
-<details>
-<summary>Final Portfolio Wireframe</summary>
+#### Login Screen Wireframe
+![login screen](https://user-images.githubusercontent.com/10038637/28836195-fdbd7b7c-76b5-11e7-8825-7752495afb4b.png)
 
-</details>
+#### Portfolio Dashboard
+![portfolio dashboard](https://user-images.githubusercontent.com/10038637/28836219-15332824-76b6-11e7-86bf-b8b51dc686e3.png)
 
-<details>
-<summary>Login Screen Wireframe</summary>
+#### Portfolio List Screen
+![portfolio list screen](https://user-images.githubusercontent.com/10038637/28836263-372a31f2-76b6-11e7-965a-a6265c71298e.png)
 
-</details>
+#### ERDs
+![image uploaded from ios](https://user-images.githubusercontent.com/10038637/28836310-61c7de50-76b6-11e7-8fe2-e1d561753b6e.jpg)
 
-<details>
-<summary>Portfolio Dashboard</summary>
+![screen shot 2017-08-01 at 11 39 30 am](https://user-images.githubusercontent.com/10038637/28836290-4efc21fa-76b6-11e7-8d4d-79327cdda572.png)
 
-</details>
-
-<details>
-<summary>Portfolio List Screen</summary>
-
-</details>
-
-<details>
-<summary>ERDs</summary>
-
-</details>
